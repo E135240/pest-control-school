@@ -1,0 +1,47 @@
+{
+  "jumping": {
+    "label": "Bold jumping spider",
+    "species": "Phidippus audax",
+    "photographer": "Bruce Marlin",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phidippus_audax.jpg",
+    "alt": "Close view of a jumping spider with large forward-facing eyes and green mouthparts."
+  },
+  "orb": {
+    "label": "Yellow garden orb-weaver",
+    "species": "Argiope aurantia",
+    "photographer": "Radtek67",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-user",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Argiope_aurantia.jpg",
+    "alt": "Yellow and black garden spider hanging in its web."
+  },
+  "cellar": {
+    "label": "Long-bodied cellar spider",
+    "species": "Pholcus phalangioides",
+    "photographer": "Donald Hobern",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pholcus_phalangioides_(7475109462).jpg",
+    "alt": "Cellar spider with a small elongated body and very long thin legs on a pale wall."
+  },
+  "black-widow": {
+    "label": "Western black widow",
+    "species": "Latrodectus hesperus",
+    "photographer": "Marshal Hedin",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Latrodectus_hesperus_(F_Theridiidae).jpg",
+    "alt": "Underside of a glossy black western black widow with a red hourglass marking."
+  },
+  "brown-widow": {
+    "label": "Brown widow",
+    "species": "Latrodectus geometricus",
+    "photographer": "Vincent Spahr",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Latrodectus_geometricus.JPG",
+    "alt": "Underside of a brown widow showing banded legs and an orange hourglass marking."
+  }
+}
